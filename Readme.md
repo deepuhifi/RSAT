@@ -1,5 +1,9 @@
 This is an ReadMe file to explain the workings of the RSAT tool with some modfication done to work with latest packages.
 
+This is a part of my Masters Thesis on "Cryto Attacks via Logical/ Algebraic means". RSAT tool is used for the Logical Cryptanalysis of RSA algorithm upto 1024 bits.
+
+Deepak kumar 2232709@swansea.ac.uk
+
 Tested in Kali Linux 2023.2 WSL
 
 # Requirements
