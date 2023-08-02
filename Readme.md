@@ -24,6 +24,8 @@ python2 -m pip install gymp2 argparse
 
 git clone https://github.com/deepuhifi/RSAT
 
+chmod -R 777 RSAT/
+
 cd RSAT
 
 python2 rsat_modified.py -b 512 -pq 0.8 -s 13
